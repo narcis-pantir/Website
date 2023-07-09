@@ -1,1 +1,5 @@
 # Website
+
+HTML
+CSS 
+JavaScript
